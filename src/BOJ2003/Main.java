@@ -2,7 +2,8 @@ package BOJ2003;
 /**
  * https://www.acmicpc.net/problem/2003
  * 수들의 합 2
- * w25536@gmail.com
+ * 알고리즘 : 브루트포스
+ * 이메일 : ucbqsuh@ucl.ac.uk
  */
 
 import java.util.Scanner;
@@ -10,9 +11,7 @@ import java.util.Scanner;
 public class Main {
 
 
-
     public static void main(String[] args){
-
 
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
